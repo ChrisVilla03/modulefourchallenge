@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+header {
+    background-color: blue;
+    color:white;
+    font-size: 72px;
+    height: 96px;
+    width:auto;
+}
